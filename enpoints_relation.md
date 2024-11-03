@@ -15,4 +15,5 @@
 #### -localhost:3000/materials (obtiene todos los materials mediante el método GET).
 #### -localhost:3000/materials/{id} (obtiene los materials por su id mediante el método GET).
 
-## *Para la creación, eliminación y edición de users y materials se usó PostMan*
+### *Para la creación, eliminación y edición de users y materials se usó PostMan*
+### *Se usó PgAdmin para la creación y gestión de la base de datos*
